@@ -78,19 +78,19 @@ These components are used in downstream model training and evaluation.
 
 3. **Run Neutrosophic Preprocessing**
    ```bash
-   python neutrosophy/ns_converter.py
+   python neutroscophy_conversion/neutroscopic_conversion.py
    ```
 
 4. **Train Models**
    ```bash
-   python train_scripts/train_svm.py
-   python train_scripts/train_knn.py
-   python train_scripts/train_cnn.py
+   python models/model_svm.py
+   python models/model_knn.py
+   python models/model_cnn.py
    ```
 
 5. **Make Predictions**
    ```bash
-   python predict.py --image path_to_image.jpg
+   python Prediction_Model.py
    ```
 
 ---

@@ -106,10 +106,10 @@ def predict_new_image(image_path, model='sleep_pattern_cnn_model.h5', img_size=(
     return predicted_label[0]
 
 
-new_image_1 = r"all/left/87.png"
+new_image_1 = r""
 predicted_label = predict_new_image(new_image_1)
 print(f"Predicted label for the new image: {predicted_label}")
 
-new_image_2 = r"all/right/87.png"
+new_image_2 = r""
 predicted_label = predict_new_image(new_image_2)
 print(f"Predicted label for the new image: {predicted_label}")

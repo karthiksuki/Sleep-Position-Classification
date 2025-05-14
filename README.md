@@ -114,5 +114,5 @@ These components are used in downstream model training and evaluation.
 ## 👨‍💻 Author
 
 - **Dr. Nagarajan Deivanayagampillai, Post-Doctorate, Ph.D** 
-- **Karthikeyan Ganesh** - [@Karthikeyan Ganesh](https://www.linkedin.com/in/karthikeyan-g7/)
+- **Karthikeyan Ganesh** - [Linkedln](https://www.linkedin.com/in/karthikeyan-g7/)
 

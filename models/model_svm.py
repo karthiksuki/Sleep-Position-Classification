@@ -51,10 +51,10 @@ def classify_image(image_path):
 
 # - - - - - - - - - -  PATH TO IMAGE - - - - - - - - - - - - - -
 print("-------------------- PREDICTION --------------------------")
-image_path_1 = "all/left/87.png"
+image_path_1 = ""
 predicted_class = classify_image(image_path_1)
 print(f"Predicted Sleep Posture: {predicted_class}")
 
-image_path_2 = "all/right/87.png"
+image_path_2 = ""
 predicted_class = classify_image(image_path_2)
 print(f"Predicted Sleep Posture: {predicted_class}")
